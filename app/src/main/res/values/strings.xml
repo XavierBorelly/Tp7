@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bouton</string>
+    <string name="plusplus">++</string>
+    <string name="_plus1">+1</string>
+    <string name="_0">0</string>
+    <string name="_moins1">-1</string>
+    <string name="moinsmoins">--</string>
+</resources>
